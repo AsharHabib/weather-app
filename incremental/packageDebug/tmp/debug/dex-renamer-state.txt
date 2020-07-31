@@ -1,0 +1,4 @@
+#Mon Jun 22 18:39:58 CDT 2020
+base.0=D\:\\Android101\\Forecast\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
