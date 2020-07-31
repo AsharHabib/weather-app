@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="error_title">Oops sorry ;o</string>
+    <string name="error_message">there was an error. please try again</string>
+    <string name="error_button_ok_text">Ok</string>
+    <string name="network_unavailable_message">Sorry, network isnt available</string>
+    <string name="weather_api_message"><a href="https://www.weatherapi.com/">Powered by Weather API</a></string>
+</resources>
