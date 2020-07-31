@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyrainshower.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyrainshower.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icepellets.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\icepellets.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchysnowpossible.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchysnowpossible.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderaterainattimesnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderaterainattimesnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysleet.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysleet.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsleetshowersnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsleetshowersnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightrainshower.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightrainshower.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyshowersoficepelletsnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyshowersoficepelletsnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysleetshowersnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysleetshowersnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavysnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavysnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mist.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\mist.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchysnowpossiblenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchysnowpossiblenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsleet.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsleet.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyheavysnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyheavysnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyrainattimesnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyrainattimesnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightsnowwiththundernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightsnowwiththundernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_degree.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-mdpi\\degree.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blowingsnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\blowingsnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsnowshowers.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsnowshowers.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freezingdrizzle.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\freezingdrizzle.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyrainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyrainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightrainshowernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightrainshowernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyfreezingrain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyfreezingrain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysnowwiththundernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysnowwiththundernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightrainwiththundernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightrainwiththundernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightshowersoficepelletsnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightshowersoficepelletsnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightfreezingrainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightfreezingrainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refresh.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clear.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\clear.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloudy.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\cloudy.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysnowshowers.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysnowshowers.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freezingdrizzlenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\freezingdrizzlenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightrainwiththunder.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightrainwiththunder.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderaterainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderaterainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderatesnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderatesnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyfreezingdrizzlenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyfreezingdrizzlenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blowingsnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\blowingsnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refresh.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyrainpossible.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyrainpossible.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mistnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\mistnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightshowersoficepellets.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightshowersoficepellets.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightdrizzle.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightdrizzle.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysnowshowersnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysnowshowersnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blizzard.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\blizzard.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fognight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\fognight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsleetnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsleetnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightdrizzlenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightdrizzlenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchysleetpossiblenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchysleetpossiblenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyfreezingrainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyfreezingrainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysleetnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysleetnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blizzardnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\blizzardnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightsnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightsnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightrainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightrainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloudynight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\cloudynight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freezingfognight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\freezingfognight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyshowersoficepellets.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyshowersoficepellets.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_torrentialrainshower.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\torrentialrainshower.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderaterainattimes.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderaterainattimes.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightdrizzle.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightdrizzle.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyfreezingdrizzle.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyfreezingdrizzle.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyrainwiththunder.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyrainwiththunder.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyrainattimes.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyrainattimes.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyfreezingdrizzlepossiblenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyfreezingdrizzlepossiblenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchymoderatesnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchymoderatesnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_partlycloudynight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\partlycloudynight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderaterain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderaterain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overcast.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\overcast.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thunderyoutbreakspossiblenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\thunderyoutbreakspossiblenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_torrentialrainshowernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\torrentialrainshowernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsnowshowersnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsnowshowersnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyheavysnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyheavysnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clearnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\clearnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_degree.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xxhdpi\\degree.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightdrizzlenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightdrizzlenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_refresh.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_degree.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-hdpi\\degree.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchymoderatesnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchymoderatesnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavysnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavysnownight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heavyrain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\heavyrain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightsnow.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightsnow.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightsleetshowers.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightsleetshowers.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thunderyoutbreakspossible.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\thunderyoutbreakspossible.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fog.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\fog.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightfreezingrain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightfreezingrain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_partlycloudy.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\partlycloudy.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysleetshowers.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysleetshowers.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freezingfog.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\freezingfog.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightrainnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightrainnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightrain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightrain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overcastnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\overcastnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchylightsnowwiththunder.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchylightsnowwiththunder.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavysnowwiththunder.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavysnowwiththunder.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyrainshowernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyrainshowernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icepelletsnight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\icepelletsnight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightrain.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\lightrain.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyfreezingdrizzlepossible.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyfreezingdrizzlepossible.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchysleetpossible.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchysleetpossible.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_degree.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable-xhdpi\\degree.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patchyrainpossiblenight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\patchyrainpossiblenight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderateorheavyrainwiththundernight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderateorheavyrainwiththundernight.png"
+    },
+    {
+        "merged": "D:\\Android101\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moderatesnownight.png.flat",
+        "source": "D:\\Android101\\Forecast\\app\\src\\main\\res\\drawable\\moderatesnownight.png"
+    }
+]
